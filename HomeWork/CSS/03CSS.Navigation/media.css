@@ -1,0 +1,17 @@
+@media all and (max-width: 645px) {
+  #menu li {
+    float: none;
+    position: relative;
+    width: 100%;
+     
+    
+  }
+#menu li ul {
+    position: absolute;
+    left: 39.4%;
+    top: 0%;
+    z-index:1;
+    
+    
+}
+}
